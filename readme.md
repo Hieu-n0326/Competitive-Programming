@@ -12,7 +12,7 @@ Welcome! This repository collects my competitive programming solutions, template
 2. Build a compact library of reliable templates.
 3. Track progress with clean, well-commented solutions.
 
-## 👨‍💻 How to use
+## 📋 How to use
 - Browse folders by contest or topic.
 - Copy a template to start a new solution quickly.
 
